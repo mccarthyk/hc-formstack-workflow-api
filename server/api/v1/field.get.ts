@@ -15,5 +15,5 @@ export default defineEventHandler(async (event) => {
       statusMessage: "Field value not found",
     });
 
-  return url;
+  return { url };
 });
