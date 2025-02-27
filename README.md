@@ -4,11 +4,9 @@
 
 ## Required Query Params
 
-`field_id` Find the field ID in the form builder
+`field_id` Find the field ID in the form builder. Use the same ID as a test value.
 
-`submission_id` Use the provided submission ID variable
-
-Send a test submission of the form to get test values for each of these parameters.
+`submission_id` Use the provided submission ID variable. Send a test submission of the form to get a test value for this parameter.
 
 # Nuxt Minimal Starter
 
