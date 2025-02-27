@@ -1,3 +1,15 @@
+# Formstack Workflow API
+
+`GET` - `https://hc-formstack-workflow-api.netlify.app/api/v1/field`
+
+## Required Query Params
+
+`field_id` Find the field ID in the form builder
+
+`submission_id` Use the provided submission ID variable
+
+Send a test submission of the form to get test values for each of these parameters.
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
